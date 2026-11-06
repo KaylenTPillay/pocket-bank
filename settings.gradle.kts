@@ -26,3 +26,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PocketBank"
 include(":app")
+include(":feature:accounts:api")
