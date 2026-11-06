@@ -25,14 +25,14 @@
 ## Screenshots
 
 | Before | After |
-| ------ | ----- |
+|--------|-------|
 |        |       |
 
 ## Checklist
 
 * [ ] PR is small and does one thing (aim for under 300 changed lines)
 * [ ] Impl modules depend only on api modules.
-* [ ] New dependencies are declared in the version catalog.
+* [ ] New dependencies are declared in the version catalogue.
 * [ ] Loading, empty, error, and offline states handled.
 * [ ] Money uses minor units or `BigDecimal` with a currency, never floats
 * [ ] No sensitive data in logs, analytic events or screenshots.
