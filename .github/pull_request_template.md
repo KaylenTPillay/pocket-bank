@@ -1,10 +1,13 @@
 ## What
+
 <!-- One of two sentences: what this PR changes. -->
 
 ## Why
+
 <!-- The problem or ticket this solves. Link it if there is one. -->
 
 ## How
+
 <!-- Key decsions a reviewer should know. Mention alternatives you rejected and why. -->
 
 ## Release safety
@@ -38,4 +41,5 @@
 * [ ] No sensitive data in logs, analytic events or screenshots.
 
 ## Notes for the reviewer
+
 <!-- Anything you are unsure about, or a question you want answered. -->
