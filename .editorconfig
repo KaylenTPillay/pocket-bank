@@ -1,0 +1,4 @@
+root = true
+
+# Default rules for all files
+insert_final_newline = true
