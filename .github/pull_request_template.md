@@ -1,6 +1,6 @@
 ## What
 
-<!-- One of two sentences: what this PR changes. -->
+<!-- One or two sentences: what this PR changes. -->
 
 ## Why
 
@@ -8,7 +8,7 @@
 
 ## How
 
-<!-- Key decsions a reviewer should know. Mention alternatives you rejected and why. -->
+<!-- Key decisions a reviewer should know. Mention alternatives you rejected and why. -->
 
 ## Release safety
 
